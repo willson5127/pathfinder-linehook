@@ -4,4 +4,3 @@ data/
 __pycache__/
 .pytest_cache/
 .uv-cache/
-fly.toml
