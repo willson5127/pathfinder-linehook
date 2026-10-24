@@ -1,5 +1,5 @@
 # 複製為 fly.toml，app 請填你在 Fly.io 實際擁有的 App 名稱。
-app = "YOUR_FLY_APP_NAME"
+app = "pathfinder-linehook"
 primary_region = "nrt"
 
 [build]
